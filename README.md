@@ -5,6 +5,11 @@ This project aims to predict medical insurance costs using data analytics and ma
 
 By leveraging historical data and identifying patterns, the model not only improves cost accuracy but also enables insurers to better manage risk and design personalized policies. Ultimately, the goal is to foster transparency, fairness, and trust within the healthcare system.
 
+<h1 align="left">
+  <img src="download (1).png" alt="Medical Insurence" width="700px"></a>
+  <br>
+</h1>
+
 ## Project Features
 - Data Collection and Preprocessing: Collecting and cleaning historical data relevant to insurance costs (e.g., demographics, medical history, lifestyle).
 - Feature Engineering: Identifying and creating key features that influence insurance premiums.

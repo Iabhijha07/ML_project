@@ -9,6 +9,10 @@ By leveraging historical data and identifying patterns, the model not only impro
   <img src="download (1).png" alt="Medical Insurence" width="700px"></a>
   <br>
 </h1>
+<h1 align="left">
+  <img src="download (1).png" alt="Medical Insurence" width="700px"></a>
+  <br>
+</h1>
 
 ## Project Features
 - Data Collection and Preprocessing: Collecting and cleaning historical data relevant to insurance costs (e.g., demographics, medical history, lifestyle).
